@@ -1,1 +1,0 @@
-"C:\Program Files\VEGAS\VEGAS Pro 14.0\vegas140.exe"
