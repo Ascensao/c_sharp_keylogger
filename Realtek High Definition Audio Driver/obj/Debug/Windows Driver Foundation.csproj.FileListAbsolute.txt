@@ -1,0 +1,37 @@
+c:\users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows_Driver_Foundation.Form1.resources
+c:\users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows_Driver_Foundation.Properties.Resources.resources
+c:\users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csproj.GenerateResource.Cache
+C:\Users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.exe.config
+C:\Users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.exe
+C:\Users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.pdb
+C:\Users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\WDFHost.exe
+C:\Users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\WDFHost.pdb
+C:\Users\basce\documents\visual studio 2017\Projects\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csprojResolveAssemblyReference.cache
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.exe.config
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.exe
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.pdb
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csprojAssemblyReference.cache
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows_Driver_Foundation.Form1.resources
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows_Driver_Foundation.Properties.Resources.resources
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csproj.GenerateResource.cache
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csproj.CopyComplete
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\WDFHost.exe
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\WDFHost.pdb
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\Google.Protobuf.dll
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\Renci.SshNet.dll
+C:\Users\Ascensao\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\MySql.Data.xml
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.exe.config
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.exe
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\WDFHost.pdb
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\MySql.Data.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\Google.Protobuf.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\Renci.SshNet.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\bin\Debug\MySql.Data.xml
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows_Driver_Foundation.Form1.resources
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows_Driver_Foundation.Properties.Resources.resources
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csproj.GenerateResource.cache
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\Windows Driver Foundation.csproj.CopyComplete
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\WDFHost.exe
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Windows Driver Foundation\obj\Debug\WDFHost.pdb

@@ -1,0 +1,30 @@
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\RtkHDAD64.exe.config
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\RtkHDAD64.exe
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\RtkHDAD64.pdb
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\MySql.Data.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\Google.Protobuf.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\BouncyCastle.Crypto.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\Renci.SshNet.dll
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\MySql.Data.xml
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Windows_Driver_Foundation.Form1.resources
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek_High_Definitio_Audio_Driver.Properties.Resources.resources
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.GenerateResource.cache
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.CopyComplete
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\RtkHDAD64.exe
+D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\RtkHDAD64.pdb
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\RtkHDAD64.exe.config
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\RtkHDAD64.exe
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\RtkHDAD64.pdb
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\Google.Protobuf.dll
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\BouncyCastle.Crypto.dll
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\Renci.SshNet.dll
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\bin\Debug\MySql.Data.xml
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.AssemblyReference.cache
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.SuggestedBindingRedirects.cache
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Windows_Driver_Foundation.Form1.resources
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek_High_Definitio_Audio_Driver.Properties.Resources.resources
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.GenerateResource.cache
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.CoreCompileInputs.cache
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\Realtek High Definition Audio Driver.csproj.CopyComplete
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\RtkHDAD64.exe
+E:\Dropbox\Trabalho\4. PROJECTOS C#\Windows Foundation Driver Keylogger\WDF 2.0\Windows Driver Foundation V2.0 Developer\Windows Driver Foundation\Realtek High Definition Audio Driver\obj\Debug\RtkHDAD64.pdb

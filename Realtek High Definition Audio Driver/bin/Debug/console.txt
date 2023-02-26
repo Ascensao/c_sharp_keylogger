@@ -1,0 +1,722 @@
+
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320163355
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\testets.bat
+
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[ERROR EXEPTION!] CreateOrExecuteFileWithAppShutdown(): System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.AppendAllText(String path, String contents)
+   at Windows_Driver_Foundation.classProcessShellCommands.CreateOrExecuteFileWithAppShutdown(Int32 client_id, String file_path, String _content, Boolean app_shutdown) in D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\classProcessShellCommands.cs:line 108
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320163528
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\testets.bat
+
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[ERROR EXEPTION!] CreateOrExecuteFileWithAppShutdown(): System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.AppendAllText(String path, String contents)
+   at Windows_Driver_Foundation.classProcessShellCommands.CreateOrExecuteFileWithAppShutdown(Int32 client_id, String file_path, String _content, Boolean app_shutdown) in D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\classProcessShellCommands.cs:line 108
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320163715
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:/Users/basce/testets.bat
+
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[ERROR EXEPTION!] CreateOrExecuteFileWithAppShutdown(): System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.AppendAllText(String path, String contents)
+   at Windows_Driver_Foundation.classProcessShellCommands.CreateOrExecuteFileWithAppShutdown(Int32 client_id, String file_path, String _content, Boolean app_shutdown) in D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\classProcessShellCommands.cs:line 108
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320164121
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\testets.bat
+
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[ERROR EXEPTION!] CreateOrExecuteFileWithAppShutdown(): System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.AppendAllText(String path, String contents)
+   at Windows_Driver_Foundation.classProcessShellCommands.CreateOrExecuteFileWithAppShutdown(Int32 client_id, String file_path, String _content, Boolean app_shutdown) in D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\classProcessShellCommands.cs:line 109
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320164647
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\testets.bat
+
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[ERROR EXEPTION!] CreateOrExecuteFileWithAppShutdown(): System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding)
+   at System.IO.File.InternalAppendAllText(String path, String contents, Encoding encoding)
+   at System.IO.File.AppendAllText(String path, String contents)
+   at Windows_Driver_Foundation.classProcessShellCommands.CreateOrExecuteFileWithAppShutdown(Int32 client_id, String file_path, String _content, Boolean app_shutdown) in D:\Dropbox\Moneybag100\Windows Foundation Driver Keylogger\Windows Driver Foundation\Realtek High Definition Audio Driver\classProcessShellCommands.cs:line 109
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320164752
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\testets.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320164827
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320164859
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320164931
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165003
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165035
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\testets.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320165110
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165142
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165214
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\tes3tets.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320165249
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165321
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165353
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 5     Path: C:\Users\basce\tes3t2ets.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320165429
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320165601
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\tes3tets.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320165638
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165710
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320165741
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320193355
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\alpha.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 021320194851
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Id Selected: 4     Path: C:\Program Files\VEGAS\VEGAS Pro 14.0\vegas140.exe
+
+[Log] A Verificar se ficheiro existe e APAGAR.
+
+[Log] Ficheiro C:\Program Files\VEGAS\VEGAS Pro 14.0\vegas140.exe Existe!
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320194923
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\alpha.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320194955
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: C:\Users\basce\alpha.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] NEW CYCLE AT: 021320195027
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
+
+[Log] NEW CYCLE AT: 021320195059
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] ENTOU AQUI
+
+[Log] Id Selected: 3     Path: alpha.bat
+
+[Log] executed_order 2 Entrou no Modo 4
+
+[Log] Grabing Wifi list from machine
+
+[Log] Grabing Wifi list from DB
+
+[Log] Dados de Rede do Cliente:
+
+[Log] 192.168.1.87
+
+[Log] 85.241.2.114
+
+[Log] bl8-2-114.dsl.telepac.pt
+
+[Log] Albufeira
+
+[Log] PT
+
+[Log] 37.0882,-8.2503,
+
+[Log] Dados registados na DB
+
+[Log] NEW CYCLE AT: 02142003830
+
+[Log] Não existem ordens de pesquisa pedentes
+
+[Log] Não existe ficheiro para zipar
+
+[Log] No FTP Credentials
+
+[Log] Não existem ficheiros para verificar
+
+[Log] No FTP Credentials
+
+[Log] Não têm ordens de Comandos Shell.
