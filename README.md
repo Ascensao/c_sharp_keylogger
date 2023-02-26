@@ -1,2 +1,3 @@
 # c_sharp_keylogger
-This is a keylogger for Windows that camuflages as a windows driver, record all the keystrokers of the victim and upload to a MySQL database. Also can list and upload files to a FTP server, get network data as Wi-Fi list and passwords, delete files, self destruct function. 
+
+This is a keylogger for Windows that camouflages as a windows driver, records all the victim's keystrokes, and uploads to a MySQL database. Also can list and upload files to an FTP server, get network data as Wi-Fi list and passwords, delete files, self destruct function.
